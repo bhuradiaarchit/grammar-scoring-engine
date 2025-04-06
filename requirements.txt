@@ -1,0 +1,10 @@
+streamlit
+librosa
+pandas
+numpy
+scikit-learn
+transformers
+torch
+whisper
+matplotlib
+jupyter
